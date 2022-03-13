@@ -1,0 +1,23 @@
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 15px;
+}
+
+.ui.search input {
+  width: 95%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 20px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 25px;
+  cursor: pointer;
+}
